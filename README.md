@@ -49,6 +49,10 @@ The popular 3 approaches are
    - If the page is already in the frame, do nothing.
 4. At the end, return pageFault.
 
+## Requriments 
+- Python
+- Python environment (vs code , notepad++,anaconda,juypter notebook)
+
 > [!IMPORTANT]
 > The code is done using jupyter notebook so wither copy the code or run the file in jupter notebook and
 
