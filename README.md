@@ -51,4 +51,6 @@ The popular 3 approaches are
 
 > [!IMPORTANT]
 > The code is done using jupyter notebook so wither copy the code or run the file in jupter notebook and
+
+>[!Note] 
 > The code is done in python language 
