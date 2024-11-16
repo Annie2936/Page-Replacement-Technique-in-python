@@ -50,6 +50,5 @@ The popular 3 approaches are
 4. At the end, return pageFault.
 
 > [!IMPORTANT]
-> The code is done using jupyter notebook so wither copy the code or run the file in jupter notebook
-> [!IMPORTANT]
+> The code is done using jupyter notebook so wither copy the code or run the file in jupter notebook\n
 > The code is done in python language 
